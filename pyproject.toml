@@ -1,0 +1,18 @@
+[project]
+name = "crpyto"
+version = "0.0.1"
+authors = [
+  { name="aray", email="a@machinaut.com" },
+]
+description = "Implementing crypto for learning purposes"
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "pytest",
+    "jupyter",
+    "notebook",
+]
